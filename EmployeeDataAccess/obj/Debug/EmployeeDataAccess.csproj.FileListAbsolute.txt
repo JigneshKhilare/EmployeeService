@@ -1,0 +1,10 @@
+E:\development\git\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\development\git\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\development\git\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\development\git\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\development\git\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\development\git\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\development\git\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\development\git\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+E:\development\git\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\development\git\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
